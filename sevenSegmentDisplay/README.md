@@ -2,6 +2,7 @@
 **7-Segment (Common Cathode)**
 
 Segment	Arduino Pin
+
 a	      3
 b	      4
 c	      5
